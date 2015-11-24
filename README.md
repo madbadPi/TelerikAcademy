@@ -1,5 +1,4 @@
-# TestTelerikAcademy
-This is a test repository
+# TelerikAcademy
 
 c# part1
 
