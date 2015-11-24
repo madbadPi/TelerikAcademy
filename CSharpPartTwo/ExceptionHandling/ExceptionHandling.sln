@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReadIntAndCalcSqrtExHandl", "1.ReadIntAndCalcSqrtExHandl\1.ReadIntAndCalcSqrtExHandl.csproj", "{4E0E358F-6095-4E86-B6CB-C793056EB1C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReadNum", "2.ReadNum\2.ReadNum.csproj", "{F900A37A-2D64-4FFF-87AF-8107E3A8541D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ReadAndPrintFilePath", "3.ReadAndPrintFilePath\3.ReadAndPrintFilePath.csproj", "{EB212934-FB4F-4176-AE23-FFBB1E4D2DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DownloadFileFromInternet", "4.DownloadFileFromInternet\4.DownloadFileFromInternet.csproj", "{62978E05-3388-43CD-8153-86F9A70D7D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0E358F-6095-4E86-B6CB-C793056EB1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0E358F-6095-4E86-B6CB-C793056EB1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0E358F-6095-4E86-B6CB-C793056EB1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0E358F-6095-4E86-B6CB-C793056EB1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F900A37A-2D64-4FFF-87AF-8107E3A8541D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F900A37A-2D64-4FFF-87AF-8107E3A8541D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F900A37A-2D64-4FFF-87AF-8107E3A8541D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F900A37A-2D64-4FFF-87AF-8107E3A8541D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB212934-FB4F-4176-AE23-FFBB1E4D2DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB212934-FB4F-4176-AE23-FFBB1E4D2DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB212934-FB4F-4176-AE23-FFBB1E4D2DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB212934-FB4F-4176-AE23-FFBB1E4D2DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62978E05-3388-43CD-8153-86F9A70D7D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62978E05-3388-43CD-8153-86F9A70D7D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62978E05-3388-43CD-8153-86F9A70D7D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62978E05-3388-43CD-8153-86F9A70D7D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+Nothing is safe. In programs an error can occur at almost any statement, for almost any reason. Checking for all these errors becomes unbearably complex. Exception handling separates this logic. It simplifies control flow.
+
+Exceptions in C# provide a structured, uniform, and type-safe way of handling both system-level and application-level error conditions. Hejlsberg et al., p. 599
+Example
+
+In programs we can throw exceptions with a throw statement. But an exception can also be thrown automatically by the runtime. This usually occurs because of the values of variables in your code.
+
+Here: In this program we divide by zero.
+This results in a DivideByZeroException.
+Properties
+Property
+
+We next use the Exception type's properties. These properties include HelpLink, Message, Source, StackTrace and TargetSite. This program creates an exception by dividing by zero. Then it catches and displays the exception.

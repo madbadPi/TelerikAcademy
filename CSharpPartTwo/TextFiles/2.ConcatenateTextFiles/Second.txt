@@ -1,0 +1,3 @@
+Allow errors to be handled at multiple levels
+Each exception handler processes only errors of particular type (and its child types)
+Other types of errors are processed by some other handlers later

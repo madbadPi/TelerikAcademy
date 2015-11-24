@@ -1,0 +1,7 @@
+Zero 0
+automatically 1
+results 1
+error 2
+zero 2
+statement 2
+programs 6

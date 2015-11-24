@@ -1,0 +1,1 @@
+Exceptions provide flexible error handling mechanism in .NET Framework

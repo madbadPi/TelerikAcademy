@@ -1,0 +1,3 @@
+"An event that occurs during the execution of the program that disrupts the normal flow of instructions“ – definition by Google
+I/O operations throw exceptions when operation cannot be performed (e.g. missing file)
+When an exception is thrown, all operations after it are not processed
