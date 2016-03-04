@@ -1,8 +1,8 @@
 
 1.	Familiarize yourself with: 
-  1.1 Microsoft Visual Studio
-  1.2 Microsoft Developer Network (MSDN) Library Documentation
-  1.3 Find information about Console.WriteLine() method.
+  - Microsoft Visual Studio
+  - Microsoft Developer Network (MSDN) Library Documentation
+  - Find information about Console.WriteLine() method.
 2.	Create, compile and run a “Hello C#” console application.
 3.	Modify the application to print your name.
 4.	Write a program to print the numbers 1, 101 and 1001.
