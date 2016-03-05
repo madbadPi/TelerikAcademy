@@ -10,7 +10,7 @@
 9.	Write a method that return the maximal element in a portion of array of integers starting at given index. Using it write another method that sorts an array in ascending / descending order.
 10.	Write a program to calculate n! for each n in the range [1..100]. Hint: Implement first a method that multiplies a number represented as array of digits by given integer number. 
 11.	Write a method that adds two polynomials. Represent them as arrays of their coefficients as in the example below:
-		x2 + 5 = 1x2 + 0x + 5 -> 501
+		x^2 + 5 = 1x^2 + 0x + 5 -> 501
 12.	Extend the program to support also subtraction and multiplication of polynomials.
 13.	Write a program that can solve these tasks:
 - Reverses the digits of a number
