@@ -4,17 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F57B74B-D2A7-4355-9027-DC8EAB764C8E}</ProjectGuid>
+    <ProjectGuid>{6AD07C37-E0CF-47C3-99C1-57EF72B4DEC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Galaxian_Stars</RootNamespace>
-    <AssemblyName>Galaxian_Stars</AssemblyName>
+    <RootNamespace>GalaxianTheGame</RootNamespace>
+    <AssemblyName>GalaxianTheGame</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -45,8 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Stars.cs" />
+    <Compile Include="Glaxian.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScreenBuffer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

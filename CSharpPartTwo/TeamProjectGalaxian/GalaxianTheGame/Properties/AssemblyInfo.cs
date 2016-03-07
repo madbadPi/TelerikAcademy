@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Galaxian")]
+[assembly: AssemblyTitle("GalaxianTheGame")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Galaxian")]
+[assembly: AssemblyProduct("GalaxianTheGame")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("350aed28-226e-42f6-8aa6-4e1d39d80cde")]
+[assembly: Guid("f446b35d-eddf-4f4d-8592-4a4a75acba5a")]
 
 // Version information for an assembly consists of the following four values:
 //
