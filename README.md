@@ -1,6 +1,1 @@
-# TelerikAcademy
-
-c# part1
-
-c# part2
-
+![](https://github.com/madbadPi/TelerikAcademy/blob/master/telerik-academy-logo.jpg)
