@@ -9,4 +9,4 @@
 	Design a database schema (a set of tables and relationships) to store the dictionary.
 6.	Add support in the previous database for storing antonym pairs.
 	Add support for storing part-of-speech information (e.g. verb, noun, adjective, …).
-	Add support for storing hypernym / hyponym chains (e.g. tree  oak, pine, walnut-tree, …).
+	Add support for storing hypernym / hyponym chains (e.g. tree -> oak, pine, walnut-tree, …).
