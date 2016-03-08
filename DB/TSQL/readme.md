@@ -12,7 +12,7 @@ Sofia -> Svetlin Nakov, Martin Kulov, George Denchev
 
 Ottawa -> Jose Saraiva
 
-10.	Define a .NET aggregate function StrConcat that takes as input a sequence of strings and return a single string that consists of the input strings separated by ','. For example the following SQL statement should return a single string:
+10.Define a .NET aggregate function StrConcat that takes as input a sequence of strings and return a single string that consists of the input strings separated by ','. For example the following SQL statement should return a single string:
 
 SELECT StrConcat(FirstName + ' ' + LastName)
 
